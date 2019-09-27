@@ -2,23 +2,20 @@
 How to exploit an Auto-encoder for exploring and predicting  flow dynamic
 
 ## First Step - Define and Train an Auto Encoder
-## Clustering and Markov Chain (low-dimensional dynamic model)
-## Sparse Reconstruction
-
 
 ![AE](AE.png)
 
+## A - Clustering and Markov Chain (low-dimensional dynamic model)
 
 ![Cluster](Cluster.png)
 
 ![Markov](Markov.png)
 
-
+## B - Sparse Reconstruction
 
 ![Sparse](Sparse.png)
 
-## Prediction
-
+## C - Prediction
 
 ![Prediction](Pred.png)
 
